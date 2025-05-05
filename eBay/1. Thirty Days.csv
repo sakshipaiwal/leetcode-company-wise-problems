@@ -1,2 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,LRU Cache,100.0,0.4443104468827379,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Matchsticks to Square,100.0,0.4077067454853223,https://leetcode.com/problems/matchsticks-to-square,"Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask"

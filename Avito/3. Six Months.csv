@@ -1,2 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Top K Frequent Elements,100.0,0.6408057140500784,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
+EASY,Merge Sorted Array,100.0,0.524972166411799,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
